@@ -1,2 +1,2 @@
-# Learning Git
-repositório das aulas de git e github
+# LearningGit
+repositório das aulas de git e github!
